@@ -1,0 +1,135 @@
+---
+title: "Syllabus"
+subtitle: "HDFS 8800: Research Methods"
+author: 
+date: 
+output:
+  html_document:
+    code_folding: hide
+    df_print: kable
+    mathjax: default
+    number_sections: no
+    theme: united
+    toc: yes
+    toc_float: true
+    toc_depth: 3
+    
+  pdf_document:
+    df_print: kable
+    number_sections: yes
+    toc: yes
+    toc_depth: 3
+---
+<style type="text/css">
+body{ font-size: 20px; max-width: 1600px; margin: auto; padding: 1em; }
+code.r{ font-size: 18px; }
+p { padding-top: 8px; padding-bottom: 8px; }
+pre { font-size: 16px; }
+</style>
+
+<style>
+.toc ul, #TOC ul, nav#TOC ul {
+    font-size: 14px;
+}
+
+.toc ul li, #TOC ul li, nav#TOC ul li {
+    font-size: 14px;
+}
+</style>
+
+
+# Contact information
+
+**Instructor**: Charles Geier, Ph.D.<br>
+**Email**: Charles.Geier@uga.edu<br>
+**Office hours**: By appointment<br>
+**Office location**: River's Crossing, Room 015<br> 
+[My Zoom link](https:/zoom.us/my/cgeier)<br>
+
+**Class time**: Tuesdays, 9:35am - 12:25pm<br>
+**Room**: Dawson 379
+
+
+# Readings
+## Required Readings:
+-   <span style="font-size: 18px;">Web Center for Social Research Methods, Research Methods Knowledge Base: http://www.socialresearchmethods.net/kb/index.php</span> <br>
+-   Other required readings will be posted here and on eLC<br>
+
+## Recommended Readings:
+-   <span style="font-size: 18px;">Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). Experimental and Quasi-experimental Designs for Generalized Causal Inference: Houghton Mifflin</span><br>
+-   <span style="font-size: 18px;">Babbie, E. (2013). The Practice of Social Research (14th ed.). Belmont, CA: Wadsworth, Cengage Learning</span><br> 
+-   <span style="font-size: 18px;">Creswell, J. W. (2014). Research design: Qualitative, Quantitative, and Mixed Methods Approaches (4th ed.). Thousand Oaks: Sage Publications</span>
+
+# Overview
+This course provides a broad overview of major methodological considerations in the social and behavioral sciences. The course focuses on general principles and perspectives of social science research. Topics include foundational concepts across the behavioral sciences (e.g., ethics, sampling, measurement, logic of hypothesis testing, etc.), and the evaluation of specific methodologies (e.g., experimentation, observation, surveys, etc.). Practical research considerations are also covered, as well as unique and contemporary considerations for developmental science.
+
+# Student learning outcomes
+1.	Students will demonstrate critical thinking skills as applied to research design through their writing, discussion, and presentations.
+2.	Students will demonstrate a strong understanding of basic psychometric principles as applied to instruments for research purposes.
+3.	Students will demonstrate the ability to conceptualize research designs appropriate for evaluating clinical and prevention outcomes, test basic research hypotheses, interpret the efficacy of evidence-based interventions, and conceptualize family dynamics over time.  
+4.	Students will demonstrate competence in critiquing and critically evaluating research design choices including sampling techniques, measurement modalities, and analytical strategies.
+5.	Students will demonstrate an understanding of current methodological issues and debates in the family and social sciences.
+6.	Students will demonstrate the ability to write clearly, concisely, and effectively for scholarly audiences in human development and family science and related disciplines.
+
+# Participation
+As with all graduate courses, engagement and participation is essential to the success of the course. I expect students to be present, engaged, and active contributors to course discussions. Every student should come prepared to discuss reactions to weekly readings, questions that they may have about course content or issues covered in readings, and ideas for applying course/reading material to their own program of research. To facilitate better class discussions, each student is required to post a comment to the class discussion forum by midnight the night before class on at least 8 occasions throughout the course of the semester. This can be a brief question(s), comment, request for clarification, or reaction to the readings and/or someone else’s post. You will receive more information about this. 50 points will be devoted to participation in class. 
+
+# Academic honesty
+"I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found can be found at: https://honesty.uga.edu/Academic-Honesty-Policy/. All academic work must meet the standards outlined in “A Culture of Honesty” found at: http://honesty.uga.edu/. 
+
+# Accommodations 
+If you plan to request accommodations for a disability, please register with the Disability Resource Center (DRC). The DRC can be reached by visiting Clark Howell Hall, by calling 706-542-8719 (voice) or 706-542-8778 (TTY), or by visiting http://drc.uga.edu.
+
+# Mental health and wellness resources 
+UGA Well-being Resources promote student success by cultivating a culture that supports a more active, healthy, and engaged student community. Anyone needing assistance is encouraged to contact Student Care & Outreach (SCO) in the Division of Student Affairs at 706-542-8479 or visit https://sco.uga.edu. Student Care & Outreach helps students navigate difficult circumstances by connecting them with the most appropriate resources or services. They also administer the Embark@UGA program which supports students experiencing, or who have experienced, homelessness, foster care, or housing insecurity. UGA provides both clinical and non-clinical options to support student well-being and mental health, any time, any place. Whether on campus, or studying from home or abroad, UGA Well-being Resources are here to help
+
+-   Well-being Resources: https://well-being.uga.edu
+-   Student Care and Outreach: https://sco.uga.edu
+-   University Health Center: https://healthcenter.uga.edu
+-   Counseling and Psychiatric Services: https://caps.uga.edu or CAPS 24/7 crisis support at 706-542-2273
+-   Health Promotion/ Fontaine Center: https://healthpromotion.uga.edu
+-   Disability Resource Center and Testing Services: https://drc.uga.edu
+-   Additional information, including free digital well-being resources, can be accessed through the UGA app or by visiting https://well-being.uga.edu.
+
+
+# FERPA notice
+The Federal Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. FERPA allows disclosure of directory information (name, address, telephone, email, date of birth, place of birth, major, activities, degrees, awards, prior schools), unless a https://reg.uga.edu/_resources/documents/imported/FERPARequestForRestriction.pdf  is submitted to the Registrar's Office.
+
+# Grading
+TBA
+
+# Course calendar 
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary. It is likely that this will happen at some point(s) over the course of the semester. I will do my best to notify students in a timely manner and update the syllabus whenever a major change has been made. Please understand that many things happen over the course of the semester that may necessitate deviation from the schedule below. Please be patient, flexible, and understanding of these circumstances, and I will make all efforts to communicate clearly regarding these changes. A current version of the syllabus will always be posted on the course ELC site and on this site.  
+
+# Topics
+
+We will cover a wide range of topics in this course, broadly organized around the following themes:
+
+1.    Foundations in Research Methods
+2.    Measurement and Data Collection
+3.    Research Design
+4.    Professional skills 
+5.    Advanced topics & Contemporary issues
+
+**Date, week, topic**
+
+- January 7th - Week 1: Foundations
+- January 14th - Week 2: Foundations
+- January 21st - Week 3: Foundations
+- January 28th - Week 4: Foundations
+- February 4th - Week 5: Foundations
+- February 11th - Week 6: Measurement and Data Collection
+- February 18th - Week 7: Measurement and Data Collection
+- February 25th - Week 8: Measurement and Data Collection
+- March 4th - Week 9: **Spring Break- No Classes**
+- March 11th - Week 10: Research Design
+- March 18th - Week 11: Research Design
+- March 25th - Week 12: Research Design
+- April 1st - Week 13: Professional skills
+- April 8th - Week 14: Professional skills / Advanced topics
+- April 15th - Week 15: Advanced topics
+- April 22nd - Week 16: Advanced topics
+- April 29th - Week 17: **Finals Week**
+
+**Specific readings and assignments TBA
+

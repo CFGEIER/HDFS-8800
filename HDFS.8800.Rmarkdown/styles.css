@@ -1,0 +1,10 @@
+
+/* General TOC font size */
+.toc ul, #TOC ul, nav#TOC ul {
+    font-size: 10px; /* Adjust size as needed */
+}
+
+/* For nested TOC items */
+.toc ul li, #TOC ul li, nav#TOC ul li {
+    font-size: 10px;
+}
